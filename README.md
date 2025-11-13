@@ -4,10 +4,15 @@ An end-to-end Customer Churn Prediction System built with Machine Learning, Fast
 This project delivers a complete production-ready pipeline capable of:
 
 🔍 Analyzing customer behavior patterns
+
 🔮 Predicting churn probability for telecom customers
+
 ⚡ Serving real-time predictions through a high-performance FastAPI backend
+
 🧠 Batch processing thousands of customer records at once
+
 🎨 Providing an elegant, user-friendly Streamlit web interface
+
 🧱 Ensuring modular, scalable, and maintainable architecture
 
 The system integrates data preprocessing, feature engineering, model management, and interactive visualization, making it suitable for enterprise use cases, academic projects, and portfolio demonstrations.
