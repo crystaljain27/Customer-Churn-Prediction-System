@@ -1,7 +1,21 @@
 # 🧠 Customer Churn Prediction System
-An end-to-end Machine Learning + FastAPI + Streamlit application built by **Crystal Jain**.
+An end-to-end Customer Churn Prediction System built with Machine Learning, FastAPI, and Streamlit, developed by Crystal Jain.
 
-Predicts customer churn using a production-ready ML pipeline, scalable backend API, and a clean interactive frontend UI.
+This project delivers a complete production-ready pipeline capable of:
+
+🔍 Analyzing customer behavior patterns
+
+🔮 Predicting churn probability for telecom customers
+
+⚡ Serving real-time predictions through a high-performance FastAPI backend
+
+🧠 Batch processing thousands of customer records at once
+
+🎨 Providing an elegant, user-friendly Streamlit web interface
+
+🧱 Ensuring modular, scalable, and maintainable architecture
+
+The system integrates data preprocessing, feature engineering, model management, and interactive visualization, making it suitable for enterprise use cases, academic projects, and portfolio demonstrations.
 
 ---
 
@@ -198,7 +212,7 @@ streamlit run frontend/app.py
 ---
 
 ## 👤 Author
-Built with ❤️ by **Crystal Jain**  
+Built by **Crystal Jain**  
 
 - GitHub: https://github.com/crystaljain27  
 - LinkedIn: https://www.linkedin.com/in/crystal-jain-b10025264  
