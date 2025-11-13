@@ -1,0 +1,24 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+lightgbm
+xgboost
+optuna
+imbalanced-learn
+ipykernel
+ipywidgets
+
+# FastAPI dependencies
+fastapi
+uvicorn[standard]
+pydantic
+requests
+
+# Streamlit dependencies
+streamlit
+plotly
+joblib
+python-multipart
+python-dotenv
